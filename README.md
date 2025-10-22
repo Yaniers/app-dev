@@ -1,32 +1,19 @@
 # app-dev
 My first respository
-# My Favorite Movie 🍿
-## Title: Enola Holmes
-**Genre:** Mystery, Adventure 
-**Created by:** Harry Bradbeer
-![Enola Holmes](https://github.com/user-attachments/assets/e803b4f3-eeac-4301-af5b-719ed132e0de)
-
-## Title: Gomburza
-**Genre:** Historical Drama
-**Created by:** Pepe Diokno
-![Gomburza](https://github.com/user-attachments/assets/d7c64ca7-6a6a-41fd-a41b-2337e3f5881e)
-
-
 # My Favorite Series 🍿
-## Title: Stranger Things
-**Genre:** Sci-Fi, Horror, Mystery  
-**Created by:** The Duffer Brothers
-![Stranger Things](https://github.com/user-attachments/assets/54d76164-29ae-4331-b5d3-bbc380ccad26)
+## Title: Enola Holmes
 
-## Title: Victorious
-**Genre:** Sitcom, Family
-**Created by:** Steve Hoefer
-![Victorious](https://github.com/user-attachments/assets/26908c61-2e27-4229-916a-81d3014bc818)
+**Genre:** Mystery, Adventure, Drama, Action, Thriller
+**Created by:** Harry Bradbeer
 
-## Title: The Residence
-**Genre:** Mystery  
-**Created by:** Paul William Davies
-![The Residence](https://github.com/user-attachments/assets/f828a59f-0d87-418b-91db-89e25b588dd4)
+> “Mother believed privacy was the highest virtue and the one most frequently violated.” – Enola Holmes
 
+### Why I love it:
+- I love the mystery vibe
+- The story line makes you keep hooked up for the next scene
+- It gives you excitement every drama and thrilling moments
 
+  ![Enola Holmes Poster](https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRNLExOk-sezXpip2Vqt-xlJ9Uc4yf2J-4T3vsHjTN88JFkz_2_&psig=AOvVaw3e_MVhJk3tjWE1MZHrjcJg&ust=1761203552626000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjxltOgt5ADFQAAAAAdAAAAABAE)
+
+    
 
